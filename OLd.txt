@@ -1,0 +1,98 @@
+create database shop;
+ 
+ create table login (
+    username varchar(20),
+    password varchar(50), 
+ );
+create table order(
+  order_no varchar (50),
+  date varchar varchar(50),
+  f_name varchar(50),
+  l_name varchar(50),
+  p_number varchar(50),
+  address varchar(50),
+  p_name varchar (50),
+  quantity varchar (50),
+  prize   nuemric(50),
+  made_charge numeric(50),
+  total numeric(50),
+  sold_tottal numeric(50),
+  payment numeric(50),
+  due numeric(50),
+ 
+);
+
+create table employee(
+id_no varchar (50),
+f_name varchar (50),
+l_name varchar (50),
+father_name varchar(50),
+mother_name varchar(50),
+mobail_num1 varchar (50),
+mobail_num2 varchar(50),
+present_address varchar(50),
+parmanent_address varchar(50),
+sallery numeric(50),
+given_sallery numeric(50),
+due numeric varchar(50),
+picture varchar(50),
+primary key(employee_id),
+);
+
+create table daily_cost(
+date varchar(50),
+expensed varchar (50),
+cost varchar(50),
+employee_id varchar(50),
+extra_income numeric(50),
+buy_today numeric(50),
+sold_today numeric(50),
+foreign key(employee_id reference to employee) ,
+);
+
+
+
+create table monthly_cost(
+date varchar(50),
+expensed varchar (50),
+cost varchar(50),
+employee_id varchar(50),
+extra_income numeric(50),
+buy_month numeric(50),
+sold_month numeric(50),
+foreign key(employee_id reference to employee) ,
+
+);
+
+
+create table yearly_cost(
+date varchar(50),
+expensed varchar (50),
+cost varchar(50),
+employee_id varchar(50),
+extra_income numeric(50),
+buy_year numeric(50),
+sold_year numeric(50),
+foreign key(employee_id reference to employee) ,
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

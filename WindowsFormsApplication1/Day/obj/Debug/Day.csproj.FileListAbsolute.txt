@@ -1,0 +1,19 @@
+G:\Shop managment System\WindowsFormsApplication1\Day\bin\Debug\Day.exe.config
+G:\Shop managment System\WindowsFormsApplication1\Day\bin\Debug\Day.exe
+G:\Shop managment System\WindowsFormsApplication1\Day\bin\Debug\Day.pdb
+G:\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.csprojResolveAssemblyReference.cache
+G:\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.Properties.Resources.resources
+G:\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.csproj.GenerateResource.Cache
+G:\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.exe
+G:\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.pdb
+G:\Shop managment System\New folder\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.csprojResolveAssemblyReference.cache
+G:\Shop managment System\New folder\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.Properties.Resources.resources
+G:\Shop managment System\New folder\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.csproj.GenerateResource.Cache
+G:\Shop managment System\New folder\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.exe
+G:\Shop managment System\New folder\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.pdb
+G:\Shop managment System\new\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.csprojResolveAssemblyReference.cache
+G:\Shop managment System\new\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.Properties.Resources.resources
+G:\Shop managment System\new\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.csproj.GenerateResource.Cache
+G:\Shop managment System\new\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.exe
+G:\Shop managment System\new\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.pdb
+G:\Shop managment System\new\Shop managment System\WindowsFormsApplication1\Day\obj\Debug\Day.Order.resources
